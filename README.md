@@ -1,5 +1,5 @@
 👋 Hi <br>
-My name is Eugene <br>
+My name is Eugeny <br>
 I'm web developer <br>
 In my work I use Laravel + MariaDB + Bootstrap + VueJS + Docker <br>
 Thanks <br>
