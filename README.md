@@ -10,7 +10,7 @@ From idea to working product — backend, frontend and infrastructure.
 <p>
 💻 Tech Stack:<br>
 <b>Backend:</b> PHP (Laravel), Python<br>
-<b>Frontend:</b> Vue.js, Bootstrap<br>
+<b>Frontend:</b> Vue.js, TypeScript<br>
 <b>Databases:</b> MySQL, MariaDB, PostgreSQL<br>
 <b>DevOps:</b> Docker, APIs, integrations
 </p>
