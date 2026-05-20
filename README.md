@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Eugeny</h2>
 
-I founded **Мастерская Кода** in 2015 as an independent software development brand focused on web services, integrations, automation and AI tools.
+I founded Code Workshop (**Мастерская Кода**) in 2015 as an independent software development brand focused on web services, integrations, automation and AI tools.
 
 <p>
 I build <b>automation systems, integrations and internal tools</b> for real business tasks.<br>
