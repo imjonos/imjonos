@@ -3,7 +3,7 @@
 I founded **Мастерская Кода** in 2015 as an independent software development brand focused on web services, integrations, automation and AI tools.
 
 <p>
-I build <b>automation systems, integrations and internal tools</b> for real business задач.<br>
+I build <b>automation systems, integrations and internal tools</b> for real business tasks.<br>
 From idea to working product — backend, frontend and infrastructure.
 </p>
 
