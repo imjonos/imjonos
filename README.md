@@ -25,8 +25,8 @@ Goal — build reliable systems that actually work in production.
 <h3>🚀 What I do</h3>
 
 <p>
+— CRM / ERP development<br>  
 — Marketplace integrations (Ozon, Wildberries, Yandex Market)<br>
-— CRM / ERP automation<br>
 — Backend services & API integrations<br>
 — AI-powered assistants & internal tools<br>
 </p>
