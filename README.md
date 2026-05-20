@@ -1,23 +1,30 @@
 <h2>👋 Hi, I'm Eugeny</h2>
 
-I founded Code Workshop (**Мастерская Кода**) in 2015 as an independent software development brand focused on web services, integrations, automation and AI tools.
-
 <p>
-I build <b>automation systems, integrations and internal tools</b> for real business tasks.<br>
-From idea to working product — backend, frontend and infrastructure.
+I am an independent fullstack developer and founder of Code Workshop 
+(<b>Мастерская Кода</b>) — a software development brand focused on web services,
+business automation, integrations and AI-powered tools.
 </p>
 
 <p>
-💻 Tech Stack:<br>
-<b>Backend:</b> PHP (Laravel), Python<br>
+I build <b>CRM/ERP systems, internal tools, API integrations and automation platforms</b>
+for real business processes — from idea and architecture to backend, frontend and deployment.
+</p>
+
+<hr>
+
+<h3>💻 Tech Stack</h3>
+
+<p>
+<b>Backend:</b> PHP, Laravel, Python<br>
 <b>Frontend:</b> Vue.js, TypeScript<br>
 <b>Databases:</b> MySQL, MariaDB, PostgreSQL<br>
-<b>DevOps:</b> Docker, APIs, integrations
+<b>Infrastructure:</b> Docker, Redis, queues, APIs, integrations
 </p>
 
 <p>
-🧠 I choose technologies based on the task, not trends.<br>
-Goal — build reliable systems that actually work in production.
+I choose technologies based on the task, not trends.<br>
+The goal is simple: build reliable systems that work in production and reduce manual work.
 </p>
 
 <hr>
@@ -25,10 +32,12 @@ Goal — build reliable systems that actually work in production.
 <h3>🚀 What I do</h3>
 
 <p>
-— CRM / ERP development<br>  
-— Marketplace integrations (Ozon, Wildberries, Yandex Market)<br>
-— Backend services & API integrations<br>
-— AI-powered assistants & internal tools<br>
+— CRM / ERP development<br>
+— Marketplace integrations: Ozon, Wildberries, Yandex Market<br>
+— Backend services and API integrations<br>
+— Business process automation<br>
+— AI assistants and internal AI tools<br>
+— Custom web applications
 </p>
 
 <hr>
@@ -37,20 +46,26 @@ Goal — build reliable systems that actually work in production.
 
 <p>
 <b>Packman — marketplace + production automation</b><br>
-Unified orders, stock and production in one system<br>
-→ Reduced manual operations, improved workflow control
+A unified system for orders, stock synchronization and production planning across marketplaces.<br>
+→ Reduced manual operations and improved workflow control.
 </p>
 
 <p>
 <b>Logistics CRM</b><br>
-CDEK, DHL, KCE integrations<br>
-→ Automatic shipping optimization (price / time)
+Internal logistics platform with carrier integrations: CDEK, DHL, KCE/CSE and others.<br>
+→ Automated shipping selection by price, delivery time and business rules.
 </p>
 
 <p>
 <b>Supplier automation platform</b><br>
-Auto-search suppliers + request management<br>
-→ Reduced routine procurement workload
+A system for supplier discovery, request management and automated outreach.<br>
+→ Reduced routine procurement workload and centralized supplier communication.
+</p>
+
+<p>
+<b>ToVideo / ToSpeech</b><br>
+AI-powered tools for generating video prompts, scenarios and text-to-speech content.<br>
+→ Fast content creation workflows for media and marketing tasks.
 </p>
 
 <hr>
@@ -58,11 +73,13 @@ Auto-search suppliers + request management<br>
 <h3>📬 Open for new projects</h3>
 
 <p>
-If you need to automate processes, integrate systems or build a custom solution — let's talk.
+If you need to automate processes, integrate systems or build a custom business tool — let's talk.
 </p>
 
 <p>
-🌐 <a href="https://toprogram.ru/resume">Resume</a><br>
+🌐 <a href="https://toprogram.ru">Website</a><br>
+📦 <a href="https://toprogram.ru/portfolio">Portfolio</a><br>
+📄 <a href="https://toprogram.ru/resume">Resume</a><br>
 ▶️ <a href="https://www.youtube.com/@toprogramru">YouTube</a>
 </p>
 
