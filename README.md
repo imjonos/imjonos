@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Eugeny</h2>
+<h2>Hi, I'm Eugeny</h2>
 
 <p>
 I am an independent fullstack developer and founder of Code Workshop 
@@ -13,7 +13,7 @@ for real business processes — from idea and architecture to backend, frontend 
 
 <hr>
 
-<h3>💻 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 <p>
 <b>Backend:</b> PHP, Laravel, Python<br>
@@ -29,7 +29,7 @@ The goal is simple: build reliable systems that work in production and reduce ma
 
 <hr>
 
-<h3>🚀 What I do</h3>
+<h3>What I do</h3>
 
 <p>
 — CRM / ERP development<br>
@@ -42,7 +42,7 @@ The goal is simple: build reliable systems that work in production and reduce ma
 
 <hr>
 
-<h3>📦 Selected cases</h3>
+<h3>Selected cases</h3>
 
 <p>
 <b>Packman — marketplace + production automation</b><br>
@@ -70,7 +70,7 @@ AI-powered tools for generating video prompts, scenarios and text-to-speech cont
 
 <hr>
 
-<h3>📬 Open for new projects</h3>
+<h3>Open for new projects</h3>
 
 <p>
 If you need to automate processes, integrate systems or build a custom business tool — let's talk.
